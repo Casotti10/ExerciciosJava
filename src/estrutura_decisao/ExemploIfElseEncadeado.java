@@ -17,7 +17,7 @@ public class ExemploIfElseEncadeado {
 		// processamento
 		if (media >= 6 && media <= 10) {
 			System.out.println("Aprovado");
-		} else if (media >= 5) {
+		}else if (media >= 5) {
 			System.out.println("Aluno de exame");
 		}else if (media > 10) {
 			System.out.println("Media nao existente"); 
