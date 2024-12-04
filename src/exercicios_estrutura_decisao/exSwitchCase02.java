@@ -47,7 +47,6 @@ public class exSwitchCase02 {
 			System.out.println("Codigo Invalido"); 
 			
 		}
-		
 		// Processamento
 		System.out.printf("Valor total = R$%.2f ", (qtde * valor));
 		leia.close();
