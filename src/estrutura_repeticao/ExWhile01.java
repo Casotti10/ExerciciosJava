@@ -8,6 +8,7 @@ public class ExWhile01 {
 
 		// variaveis
 		int idade = 0, menor21 = 0, maior50 = 0;
+		
 
 		Scanner leia = new Scanner(System.in);
 
