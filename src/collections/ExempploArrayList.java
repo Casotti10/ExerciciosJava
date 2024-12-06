@@ -42,7 +42,7 @@ public class ExempploArrayList {
 		 */
 		System.out.println("\nNotas cadastradas - Laço For...Each");
 
-		for (Double nota : notas) {
+		for (Double nota : notas) {   
 			System.out.println(nota);
 		}
 	}
