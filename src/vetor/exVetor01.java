@@ -2,12 +2,10 @@ package vetor;
 
 import java.util.Scanner;
 
-public class ExVeto01 {
+public class exVetor01 {
 
 	public static void main(String[] args) {
-
 		Scanner leia = new Scanner(System.in);
-		
 		int cont = 0;
 
 		int lista[] = { 6, 4, 9, 2, 5, 1, 7, 8, 3, 10 }; // vetor com dados
@@ -27,4 +25,5 @@ public class ExVeto01 {
 		}
 
 	}
+
 }
