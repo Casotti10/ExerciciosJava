@@ -16,7 +16,12 @@ public class Ex02 {
 			Integer num = leia.nextInt(); // ler o numero inserido
 			numeros.add(num);
 		}
-		System.out.println(numeros);
-		  
+		
+
+		System.out.println("Listar dados no set: ");
+		for (Integer numero : numeros) { // FOR EACH PARA ORDENAR
+			System.out.println(numero);
+		}
+
 	}
-	}
+}

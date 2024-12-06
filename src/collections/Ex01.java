@@ -22,7 +22,8 @@ public class Ex01 {
 		for (String cor : cores) { // FOR EACH PARA ORDENAR
 			System.out.println(cor); 
 		}
-	
+		
+		
 	
 	
 	}
