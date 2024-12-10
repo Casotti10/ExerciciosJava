@@ -1,4 +1,4 @@
-package vetor;
+package vetor_ex;
 
 import java.util.Scanner;
 

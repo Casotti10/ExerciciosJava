@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Ex04 {
+public class ex04 {
 
 	public static void main(String[] args) {
 		Set<Integer> setNumeros = new HashSet<Integer>(); // Nao tem ordenação e nao repete se tiver dados iguais

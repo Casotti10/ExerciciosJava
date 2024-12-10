@@ -1,4 +1,4 @@
-package vetor;
+package vetor_ex;
 
 public class ExemploVetor {
 
