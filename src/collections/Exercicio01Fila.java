@@ -37,7 +37,7 @@ public class Exercicio01Fila {
 					System.out.println("A fila está vazia.");
 				} else {
 					Iterator<String> iterator = fila.iterator();
-					System.out.println("\n Lista de clientes na fila: ");
+					System.out.println("\nLista de clientes na fila: ");
 					while (iterator.hasNext()) {
 						System.out.println(iterator.next());
 					}
