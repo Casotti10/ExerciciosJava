@@ -4,5 +4,5 @@
 /**
  * 
  */
-module exercicios {
+module projetoJava {
 }
